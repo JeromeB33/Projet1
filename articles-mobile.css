@@ -6,7 +6,6 @@ body {
 }
 /* On crée une boite contenant tous les conteneur de la page */ 
 .bigBox {
-    display: flex;
     background-color: #FFFF;
     margin-right: 5%;
     margin-left: 5%;
@@ -55,6 +54,17 @@ p {
 
 /* Initialisation du responsive mobile! */ 
 @media screen and (max-width: 721px) {
+
+nav {
+    font-size: 1.5em;
+
+}
+
+#alt-titreHide{
+    background-color: #6cb5fa;
+    border-radius: 15px;
+}
+
 #menu-deroulant, #menu-deroulant ul{
     padding:0;
     list-style:none;
@@ -63,15 +73,15 @@ p {
 #menu-deroulant li{
     display:inline-block;
     position:relative;
-    background-color: grey;
     border-radius: 10px;
 }
 #menu-deroulant ul li{
     display: inherit;
     border-radius: 0;
+    background-color: grey;
 }
 #menu-deroulant ul li:first-child {
-    border-radius: 10px 10px 0 0;
+    border-radius: 10px 10px 0 0;  
 }
 #menu-deroulant ul li:last-child {
     border-radius: 0 0 10px 10px;
@@ -97,11 +107,33 @@ p {
     display:block;
     padding:8px 32px;
     color: black;
-    letter-spacing: 0.4em;
+    letter-spacing: 0.7em;
 
 }
 #menu-deroulant ul a{
     padding:8px 0;
 }
-
+h1 {
+    display: none;
+}
+article {
+    border: 1px solid gray;
+    border-radius: 25px;
+    box-shadow:  10px 10px 20px 0px gray;
+    margin-bottom: 5%;
+    margin-right: 5%;
+    margin-left: 5%;
+}
+h2 {
+    margin-left: 2%;
+    margin-bottom: 0px;
+}
+.art-info {
+    margin-top: 0px;
+    margin-left: 10%;
+}
+.art-contenu {
+    font-size: 1.1em;
+    margin-left: 5%;
+}
 }
