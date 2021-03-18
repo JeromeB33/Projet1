@@ -6,15 +6,15 @@
 #menu-deroulant li{
     display:inline-block;
     position:relative;
-    background-color: grey;
     border-radius: 10px;
 }
 #menu-deroulant ul li{
     display: inherit;
     border-radius: 0;
+    background-color: grey;
 }
 #menu-deroulant ul li:first-child {
-    border-radius: 10px 10px 0 0;
+    border-radius: 10px 10px 0 0;  
 }
 #menu-deroulant ul li:last-child {
     border-radius: 0 0 10px 10px;
@@ -40,7 +40,7 @@
     display:block;
     padding:8px 32px;
     color: black;
-    letter-spacing: 0.4em;
+    letter-spacing: 0.7em;
 
 }
 #menu-deroulant ul a{
