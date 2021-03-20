@@ -38,27 +38,31 @@
         <main> <!-- Le contenu principal de notre page -->
 
             <div class="contenu_main">
-                <h2>Le fossé</h2>
-                <p> Eric Hochet a physiquement interagit avec un autre humain pour la première fois depuis cinq mois.<br>
-                    Interaction qu’il a complètement gâchée en centrant la conversation entièrement sur lui-même.</p>
+                <h2>Naissance</h2>
+                <p> lorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem
+                    lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem
+                    loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem lorem</p>
             </div>
 
             <div class="contenu_main">
-                <h2>Le fossé</h2>
-                <p> Eric Hochet a physiquement interagit avec un autre humain pour la première fois depuis cinq mois.<br>
-                    Interaction qu’il a complètement gâchée en centrant la conversation entièrement sur lui-même.</p>
+                <h2>Collège</h2>
+                <p> lorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem
+                    lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem
+                    loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem lorem</p>
             </div>
 
             <div class="contenu_main">
-                <h2>Le fossé</h2>
-                <p> Eric Hochet a physiquement interagit avec un autre humain pour la première fois depuis cinq mois.<br>
-                    Interaction qu’il a complètement gâchée en centrant la conversation entièrement sur lui-même.</p>
+                <h2>Lycée</h2>
+                <p> lorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem
+                    lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem
+                    loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem lorem</p>
             </div>
 
             <div class="contenu_main">
-                <h2>Le fossé</h2>
-                <p> Eric Hochet a physiquement interagit avec un autre humain pour la première fois depuis cinq mois.<br>
-                    Interaction qu’il a complètement gâchée en centrant la conversation entièrement sur lui-même.</p>
+                <h2>Vie professionnelle</h2>
+                <p> lorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem
+                    lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem
+                    loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem loremlorem lorem lorem</p>
             </div>
 
         </main>
