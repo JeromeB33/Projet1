@@ -31,25 +31,26 @@
 
         <div id="section_flex">
                  <div id="section_presentation">
-                      <h3> Histoire</h3>
+                      <h3> L'histoire</h3>
                       <p> De Eric Hochet</p>
                 </div>
 
                 <div class="section_presentation">
                     <h3> Mon enfance </h3>
-                    <p> Tout à commencé en 1992 avce une place</p>
+                    <p> Tout à commencé en 1992 avce une placeTout à commencé en 1992 avce une placeTout à commencé en 1992 avce une placeTout à commencé en 1992 avce une placeTout à commencé en 1992 avce une placeTout à commencé en 1992 avce une placeTout à commencé en 1992 avce une placeTout à commencé en 1992 avce une placeTout à commencé en 1992 avce une place</p>
 
                 </div>
 
                 <div class="section_presentation">
                     <h3> Mon adolescence </h3>
-                    <p> Au collège j'ai eu mes premiers poils Au collège j'ai eu mes premiers poils pubiens que je jetais dlorem sur les genspubiens que je jetais dlorem sur les gens</p>
+                    <p> Au collège j'ai eu mes premiers poils Au collège j'ai eu mes premiers poils pubiens que je jetais dlorem sur les genspubiens que je jetais dlorem sur les gensTout à commencé en 1992 avce une placeTout à commencé en 1992 avce une placeTout à commencé en 1992 avce une placeTout à commencé en 1992 avce une placeTout à commencé en 1992 avce une placeTout à commencé en 1992 avce une place</p>
                 </div>
 
                 <div class="section_presentation">
                     <h3> Mon parcours professionel </h3>
-                    <p> Quand j'ai commencé dans ce fameux restaurant </p>
+                    <p> Quand j'ai commencé dans ce fameux restaurantTout à commencé en 1992 avce une placeTout à commencé en 1992 avce une placeTout à commencé en 1992 avce une placeTout à commencé en 1992 avce une placeTout à commencé en 1992 avce une placeTout à commencé en 1992 avce une placeTout à commencé en 1992 avce une placeTout à commencé en 1992 avce une placeTout à commencé en 1992 avce une placeTout à commencé en 1992 avce une placeTout à commencé en 1992 avce une placeTout à commencé en 1992 avce une place </p>
                 </div>
+
         </div>
 
     </div>

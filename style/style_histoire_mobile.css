@@ -5,7 +5,6 @@ body {
     background-image: url(https://www.transparenttextures.com/patterns/food.png);
     letter-spacing: 0.2em;
 }
-/* On crée une boite contenant tous les conteneur de la page */
 
 
 header {
@@ -32,7 +31,7 @@ footer {
     margin-right: 5%;
     margin-left: 5%;
 }
-/* on rend le texte du footer plus petit */
+/* texte du footer plus petit */
 footer p {
     font-size: 0.7em;
 }

@@ -1,4 +1,5 @@
 @media screen and (min-width: 722px) {
+
     header {
         font-size: 2em;
         align-self: flex-end;
@@ -62,8 +63,9 @@
     #section_presentation{
         display: flex;
         flex-direction: column;
-        margin-bottom: 20px;
+        margin-bottom: 5%;
         background-image:linear-gradient(to bottom, #94c8f8, #b1d5f7);
+        border: 1px solid gray;
         border-radius: 15px;
         box-shadow:  10px 10px 10px 0 gray;
         text-align: center;
@@ -74,12 +76,14 @@
     .section_presentation{
         display: flex;
         flex-direction: column;
-        margin-bottom: 20px;
+        margin-bottom: 5%;
+        border: 1px solid gray;
         border-radius: 15px;
         box-shadow:  10px 10px 10px 0 gray;
         text-align: center;
         margin-left: 10%;
         margin-right: 10%;
+
     }
 
     ul {
@@ -92,6 +96,5 @@
         margin-bottom: 70%;
         margin-top: 50%;
     }
-
 
 }
