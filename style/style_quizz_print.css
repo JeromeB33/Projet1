@@ -1,0 +1,55 @@
+@media screen and (min-width: 722px){
+    /* on met en place la nav bar latérale*/
+    .bigBox {
+        display: flex;
+    }
+    #alt-titreHide{
+        display: none;
+    }   /* Pour placer le titre de la page */
+    .art-container {
+        display: flex;
+        flex-direction:column ;
+        width: 100%;
+    }
+    nav {
+        box-shadow:  10px 10px 20px 0px gray;
+        background-color: #6cb5fa;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-left: 3%;
+        margin-right: 3%;
+        width: 20%;
+        font-size: 220%;
+        border-top-left-radius: 25px;
+        border-bottom-left-radius: 25px;
+        text-align: center;
+    }
+
+
+    ul {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    li {
+        list-style: none;
+        margin-bottom: 70%;
+        margin-top: 50%;
+
+    }
+    /* on place le titre*/
+
+    header {
+        align-self: flex-end;
+        width: 70%;
+        margin-bottom: 70px;
+    }
+
+    /* on place les éléments dans la box article*/
+    h2 {
+        margin-left: 2%;
+        margin-bottom: 0px;
+    }
+
+}
