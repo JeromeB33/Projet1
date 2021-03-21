@@ -11,6 +11,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Bangers&display=swap" rel="stylesheet">
     <link rel="stylesheet" media="screen" href="articles-mobile.css" type="text/css" />
     <link rel="stylesheet" media="screen" href="articles-screen.css" type="text/css" />
+    <script type="text/javascript" src="script.js"></script>
 </head>
 
 <body>
@@ -22,7 +23,7 @@
                     <ul>
                         <li><a href="index.php">Accueil</a></li>
                         <li><a href="histoire.php">Histoire</a></li>
-                        <li><a href="compétences.php">Compétences</a></li>
+                        <li><a id="art-comp" href="compétences.php">Compétences</a></li>
                         <li><a href="quizz.php">Quizz</a></li>
                         <li><a href="contact.php">Contact</a></li>
                     </ul>
@@ -37,34 +38,43 @@
             <main> <!-- Le contenu principal de notre page -->
                 
                     <article>
+                        
+                        <a href="" id="test1" onclick="JouerSon()">
                         <h2 class='art-titre'>Le fossé</h2>
                         <p class='art-info'> écrit par jkscjikcjdsio le 21/03/21</p>
                         <p class='art-contenu'> Eric Hochet a physiquement interagit avec un autre humain pour la première fois depuis cinq mois.<br> 
                         Interaction qu’il a complètement gâchée en centrant la conversation entièrement sur lui-même.</p>
+                        </a>
                     </article>
 
                     <article>
+                        <a href="" id="test2" onclick="init()">
                         <h2 class='art-titre'>Le fossé</h2>
                         <p class='art-info'> écrit par jkscjikcjdsio le 21/03/21</p>
                         <p class='art-contenu'> Eric Hochet a physiquement interagit avec un autre humain pour la première fois depuis cinq mois.<br> 
                         Interaction qu’il a complètement gâchée en centrant la conversation entièrement sur lui-même.</p>
+                        </a>
                     </article>
 
                     <article>
+                        <a href="" id="test3" onclick="JouerSon()">
                         <h2 class='art-titre'>Le fossé</h2>
                         <p class='art-info'> écrit par jkscjikcjdsio le 21/03/21</p>
                         <p class='art-contenu'> Eric Hochet a physiquement interagit avec un autre humain pour la première fois depuis cinq mois.<br> 
                         Interaction qu’il a complètement gâchée en centrant la conversation entièrement sur lui-même.</p>
+                        </a>
                     </article>
 
                     <article>
+                        <a href="" id="test4" onclick="JouerSon()">
                         <h2 class='art-titre'>Le fossé</h2>
                         <p class='art-info'> écrit par jkscjikcjdsio le 21/03/21</p>
                         <p class='art-contenu'> Eric Hochet a physiquement interagit avec un autre humain pour la première fois depuis cinq mois.<br> 
                         Interaction qu’il a complètement gâchée en centrant la conversation entièrement sur lui-même.</p>
+                        </a>
                     </article>
-
-                    
+                    <audio  src="./Sons/Articles-intro.mp3" id="son1"></audio>
+ 
             </main>
         </div>
 
@@ -84,6 +94,5 @@
         </p>
 
     </footer>
-
 </body>
 </html>
