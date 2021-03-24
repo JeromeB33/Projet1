@@ -6,9 +6,10 @@
 
 }
 
-#art-titreHide{
+#alt-titreHide{
     background-color: #6cb5fa;
     border-radius: 15px;
+    margin-top: 7%;
 }
 
 #menu-deroulant, #menu-deroulant ul{
@@ -61,7 +62,7 @@
 }
 #art-h1 {
     display: none;
-}
+}   
 article {
     border: 1px solid gray;
     border-radius: 25px;
@@ -78,6 +79,7 @@ article {
     margin-top: 0px;
     margin-left: 10%;
     font-size: 0.7em;
+    margin-top: 2%;
 }
 .art-contenu {
     font-size: 0.8em;

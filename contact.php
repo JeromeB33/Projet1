@@ -18,7 +18,7 @@
     <div class="bigBox"><!-- on entoure toutes les box  -->
         <nav id="contact-nav">
             <ul id="menu-deroulant">
-                <li><a href="#" id="contact-titreHide">Contact</a>
+                <li><a href="#" id="alt-titreHide">Contact</a>
                     <ul>
                         <li><a href="index.php">Accueil</a></li>
                         <li><a href="histoire.php">Histoire</a></li>

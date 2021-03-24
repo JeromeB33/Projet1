@@ -9,8 +9,8 @@
     <link href="https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap" rel="stylesheet">
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Bangers&display=swap" rel="stylesheet">
-    <link rel="stylesheet" media="screen" href="contact-mobile.css" type="text/css" />
-    <link rel="stylesheet" media="screen" href="contact-screen.css" type="text/css" />
+    <link rel="stylesheet" media="screen" href="articles-mobile.css" type="text/css" />
+    <link rel="stylesheet" media="screen" href="articles-screen.css" type="text/css" />
     <link rel="stylesheet" media="screen" href="global.css" type="text/css" />
 </head>
 
@@ -18,7 +18,7 @@
     <div class="bigBox"><!-- on entoure toutes les box  -->
         <nav id="art-nav">
             <ul id="menu-deroulant">
-                <li><a href="#" id="art-titreHide">Articles</a>
+                <li><a href="#" id="alt-titreHide">Articles</a>
                     <ul>
                         <li><a href="index.php">Accueil</a></li>
                         <li><a href="histoire.php">Histoire</a></li>
@@ -26,8 +26,7 @@
                         <li><a href="quizz.php">Quizz</a></li>
                         <li><a href="contact.php">Contact</a></li>
                     </ul>
-                    </li>
-                    
+                </li>
             </ul>
         </nav>
         <div class="art-container"> 
@@ -39,7 +38,7 @@
                 
                     <article>
                         
-                        <a href="" id="test1" >
+                        <a href="" id="test1" onclick="init()" >
                         <h2 class='art-titre'>L'homme aux grosses chevilles</h2>
                         <p class='art-info'> écrit par Eva Skacélagueul le 21/03/21</p>
                         <p class='art-contenu'> Eric Hochet a physiquement interagit avec un autre humain pour la première fois depuis cinq mois.<br> 

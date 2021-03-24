@@ -19,13 +19,13 @@
     btn2.addEventListener('click', once2);
   }
 */
-
+/*
 function playAudio(){
     let son1= new audio("./Sons/Articles-intro.mp3");
 
     let buttonSon= document.getElementById("test1");
     buttonSon.addEventListener('click', son1.play());
-}
+}*/
 
 /*
 playSound = function () {
@@ -38,3 +38,13 @@ function JouerSon() {
     var sound = document.getElementById("son1");
     sound.play();
 }*/
+$(document).ready(function(){
+  $('#TonImage').click(function(){
+      var song = $('audio');
+      if(song.paused){ 
+          song.play()
+      } else {
+          song.pause()
+      }
+  })
+})
