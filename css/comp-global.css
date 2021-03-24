@@ -51,6 +51,7 @@ h2 {
 /* on gere le contenu de la page Compétences */
 .competences-boxes ul {
 padding-left: 50px;
+margin-bottom: 30px;
 }
 .competences-boxes li {
     list-style: square;
