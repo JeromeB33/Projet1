@@ -9,7 +9,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap" rel="stylesheet">
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Bangers&display=swap" rel="stylesheet">
-    <link rel="stylesheet" media="screen" href="./css/index-global.css" type="text/css" />
+    <link rel="stylesheet" media="screen" href="./css/global.css" type="text/css" />
     <link rel="stylesheet" media="screen" href="./css/index-mobile.css" type="text/css" />
     <link rel="stylesheet" media="screen" href="./css/index-screen.css" type="text/css" />
 </head>
