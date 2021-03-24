@@ -2,6 +2,34 @@
 header {
     font-size: 2em;
 }
+.bigBox {    
+    margin: 0;
+    position: fixed;
+    top: 30px;
+    bottom: 100px;
+    left: 50px;
+    right: 50px;
+    overflow-y: scroll;
+}
+/* Scrollbar styles */
+::-webkit-scrollbar {
+width: 10px;
+}
+
+::-webkit-scrollbar-track {
+display: none;
+}
+
+::-webkit-scrollbar-thumb {
+background: grey
+}
+
+footer {
+    position: fixed;
+    bottom: 2px;
+    right: 10%;
+    left: 10%;
+}
 /* on met en place une grid */ 
 .container {
     display: grid;
@@ -71,11 +99,6 @@ header {
     border-radius: 25px;
     box-shadow:  10px 10px 20px 0px gray;
 }
-
-footer {
-    margin-top: 50px;
-}
-
 h2 {
     font-size: 2.5em;
 }
