@@ -9,9 +9,9 @@
     <link href="https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap" rel="stylesheet">
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Bangers&display=swap" rel="stylesheet">
-    <link rel="stylesheet" media="screen" href="../css/global.css" type="text/css" />
-    <link rel="stylesheet" media="screen" href="../css/mobile.css" type="text/css" />
-    <link rel="stylesheet" media="screen" href="../css/screen.css" type="text/css" />
+    <link rel="stylesheet" media="screen" href="../css/comp-global.css" type="text/css" />
+    <link rel="stylesheet" media="screen" href="../css/comp-mobile.css" type="text/css" />
+    <link rel="stylesheet" media="screen" href="../css/comp-screen.css" type="text/css" />
 </head>
 
 <body>
@@ -19,7 +19,7 @@
     <div class="bigBox"><!-- on entoure toutes les box  -->
         <nav>
             <ul id="menu-deroulant">
-                <li><a href="#" id="alt-titreHide">Compétences</a></li>
+                <li><a href="#" id="alt-titreHide">Compétences</a>
                     <ul>
                         <li><a href="../index.php">Accueil</a></li>
                         <li><a href="histoire.php">Histoire</a></li>
@@ -27,7 +27,7 @@
                         <li><a href="quizz.php">Quizz</a></li>
                         <li><a href="contact.php">Contact</a></li>
                     </ul>
-                
+                </li>
             </ul>
         </nav>
         <div class= "competences-container"> 
