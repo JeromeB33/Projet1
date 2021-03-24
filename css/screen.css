@@ -24,18 +24,6 @@
         overflow-y: scroll;
         display: flex;
     }
-    /* Scrollbar styles */
-    ::-webkit-scrollbar {
-    width: 10px;
-    }
-    
-    ::-webkit-scrollbar-track {
-    display: none;
-    }
-    
-    ::-webkit-scrollbar-thumb {
-    background: grey
-    }
 
     footer {
         position: fixed;
@@ -46,17 +34,6 @@
     #alt-titreHide{
         display: none;
     }
-    .competences-container {
-        display: flex;
-        flex-direction:column ;
-        width: 100%;    
-    }
-    .boite {
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: space-around;
-    }
-   
     nav {
         box-shadow:  10px 10px 20px 0px gray;
         align-self: center;
@@ -72,22 +49,35 @@
         border-bottom-left-radius: 50px;
         text-align: center;
     }
+
     #menu-deroulant ul {
         display: flex;
         flex-direction: column;
         justify-content: space-around;
         height: 100%;
-
     }
+
     ul {
         padding-left: 20px;
         padding-right: 20px;
     }
-    
+
     li {
         list-style: none;
-    
     }
+    /* Scrollbar styles */
+    ::-webkit-scrollbar {
+        width: 10px;
+    }
+
+    ::-webkit-scrollbar-track {
+        display: none;
+    }
+
+    ::-webkit-scrollbar-thumb {
+        background: grey
+    }
+        
     /* on place le titre*/
     
     header {
@@ -95,9 +85,9 @@
         width: 70%;
         margin-bottom: 70px;
     }
-    /* au tour des articles*/
+    /* le style des box compétences */
     
-    section {
+    .competences-boxes section {
         width: 40%;
         border: 1px solid gray;
         border-radius: 25px;
@@ -105,9 +95,12 @@
         margin-bottom: 5%;
         margin-right: 5%;
     }
-    /* on place les éléments dans la box article*/
+    /* on place les éléments dans la box competence*/
 
     .competences-container{
+        display: flex;
+        flex-direction:column ;
+        width: 100%;  
         font-size: 1.1em;
         margin-left: 5%;
     }
@@ -116,4 +109,10 @@
         margin-bottom: 5px;
         margin-top: 5px;
     }
+    .competences-boxes {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+   
     }

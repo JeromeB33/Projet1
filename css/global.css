@@ -48,13 +48,23 @@ h2 {
     margin-left: 0;
     margin-bottom: 0;
 }
-.boite ul {
+/* on gere le contenu de la page Compétences */
+.competences-boxes ul {
 padding-left: 50px;
 }
-.boite li {
+.competences-boxes li {
     list-style: square;
     font-family: 'Indie Flower', cursive;
     font-size: 0.8em;
     font-weight: bold;
     letter-spacing: 0em;
+}
+.competences-container{
+    font-size: 1.1em;
+    margin-left: 5%;
+}
+.competences-container li {
+    list-style:square;
+    margin-bottom: 5px;
+    margin-top: 5px;
 }

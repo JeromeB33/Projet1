@@ -2,6 +2,7 @@
 header {
     font-size: 2em;
 }
+/* On positionne le cadre pour scroll a l'interieur*/
 .bigBox {    
     margin: 0;
     position: fixed;
@@ -11,7 +12,7 @@ header {
     right: 50px;
     overflow-y: scroll;
 }
-/* Scrollbar styles */
+/* Style de la scrollbar */
 ::-webkit-scrollbar {
 width: 10px;
 }
@@ -23,7 +24,7 @@ display: none;
 ::-webkit-scrollbar-thumb {
 background: grey
 }
-
+/*on positionne le footer */
 footer {
     position: fixed;
     bottom: 2px;

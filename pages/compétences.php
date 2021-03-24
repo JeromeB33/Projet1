@@ -37,7 +37,7 @@
 
             <main> <!-- Le contenu principal de notre page -->
                 
-            <div class = "boite">
+            <div class = "competences-boxes">
             <section>
                 <h2>Informatique</h2>
                     <ul>
