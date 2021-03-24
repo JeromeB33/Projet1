@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Accueil</title>
+    <title>Articles</title>
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap" rel="stylesheet">
     <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -26,6 +26,8 @@
                         <li><a href="quizz.php">Quizz</a></li>
                         <li><a href="contact.php">Contact</a></li>
                     </ul>
+                    </li>
+                    
             </ul>
         </nav>
         <div class="art-container"> 
