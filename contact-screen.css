@@ -48,7 +48,7 @@
         width: 70%;
         margin-bottom: 70px;
     }
-    /* Au tour du formulaire*/
+                             /*/*/*/*     /* Au tour du formulaire*/     */*/*/*/
 
 
     form {
@@ -112,6 +112,32 @@
         padding-right: 12px;
    
       }
-}
-    
+                           /*/*/*/*          /* on place les éléments dans la page article*/            */*/*/*/
+    article {
+        border: 1px solid gray;
+        border-radius: 25px;
+        box-shadow:  10px 10px 20px 0px gray;
+        margin-bottom: 5%;
+        margin-right: 5%;
+    }
+    /* on place les éléments dans la box article*/
+    h2 {
+        margin-left: 2%;
+        margin-bottom: 0px;
+    }
+    .art-info {
+        margin-top: 0px;
+        margin-left: 10%;
+    }
+    .art-contenu {
+        font-size: 1.1em;
+        margin-left: 5%;
+    }
+    #art-comp{
+        font-size: 0.7em;
+    }
+    }
+
+
+
   

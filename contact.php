@@ -37,11 +37,11 @@
             <main> <!-- Le contenu principal de notre page -->
                 <form action="" method="post">
                     <div>
-                        <label for="name">Renseine ici ton Nom et Prénom :</label>
+                        <label for="name">Renseine ici ton Nom et Prénom:</label>
                         <input type="text" id="name" name="user_name" placeholder="Eric Hochet">
                     </div>
                     <div>
-                        <label for="mail">T'y es presque! Il me faut ton mail :</label>
+                        <label for="mail">T'y es presque! Il me faut ton mail:</label>
                         <input type="email" id="mail" name="user_mail" placeholder="EricHochet@monmail.com">
                     </div>
                     <div>
